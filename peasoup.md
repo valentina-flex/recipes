@@ -3,6 +3,6 @@
 - spring onions
 - potato
 # Instructions
-- Put pea in the pan
+-Shell the peas and put them in the pot
 - Bring a pot of water to the boil
 
